@@ -2,5 +2,7 @@ Chỉnh sửa nội dung lần 1
 May A đã hoàn thành login
 May A dang fix bug login
 
-May A da tach nhanh 
+May A da tach nhanh
+
+Gio hang may B chinh sua de lam tinh nang thanh toan
 Chinh sua de lam tinh nang giờ hang may A
